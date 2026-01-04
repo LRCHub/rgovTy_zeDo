@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "julep-ment flight",
+  "base_artist": "日食なつこ",
+  "createdAt": "2026-01-04T10:52:48.889999Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "julep-ment flight",
+      "artist": "日食なつこ",
+      "has_synced": false,
+      "path": "select/pl_01_julep-ment_flight_日食なつこ.txt"
+    }
+  ]
+}
